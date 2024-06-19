@@ -1,7 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![logo](logo.gif)
+
 <h1 align="center">Hi 👋, I'm Govardhan Prajapati</h1>
 <h3 align="center">I'm a passionate FullStack Developer with expertise in</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--311381761734186207%2F&psig=AOvVaw16_hdRrAnxatiTjP3TrsUp&ust=1718822882325000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLj60qzo5YYDFQAAAAAdAAAAABAE" />
+<img align="right" alt="coding" width="400" src="profile.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govardhan78&label=Profile%20views&color=0e75b6&style=flat" alt="govardhan78" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 👨‍💻 All of my projects are available at [https://govardhanprajapat.netlify.app/](https://govardhanprajapat.netlify.app/)
